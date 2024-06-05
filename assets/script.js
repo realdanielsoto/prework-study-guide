@@ -1,7 +1,11 @@
 const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 for (let x = 0; x < topics.length; x++) {
+<<<<<<< HEAD
     console.log(topics[x]);
+=======
+ console.log(topics[x]);
+>>>>>>> origin/main
 }
 
 /*
