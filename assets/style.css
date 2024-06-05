@@ -30,11 +30,14 @@ p {
     font-size: 30px;
   }
 
+<<<<<<< HEAD
+=======
   .card {
     width: 80%;
     margin: 40px auto;
     border: 5px solid #CD5C5C;
     box-shadow: 5px 10px #888888;
   }
+>>>>>>> 74802ebc3924c00c7d024b55e20f6344636c6ce9
 
 
